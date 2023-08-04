@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.31ddfaf4.css",
-    "main.js": "/static/js/main.17a11197.js",
+    "main.css": "/static/css/main.4a2b71b8.css",
+    "main.js": "/static/js/main.032c5f36.js",
     "static/js/787.43b8efaf.chunk.js": "/static/js/787.43b8efaf.chunk.js",
     "static/media/flor-violeta.svg": "/static/media/flor-violeta.5ee97431cae35ed9a827c681292a4604.svg",
     "static/media/hojas.svg": "/static/media/hojas.40e747e7ed0bcf76ffddbd3e73ade622.svg",
@@ -9,15 +9,15 @@
     "static/media/flor-violeta2.svg": "/static/media/flor-violeta2.2765c03d0259ab6241ffc9602d5e9f0d.svg",
     "static/media/pollo.svg": "/static/media/pollo.14f88caa19c6d2f1ab666a84faaeff29.svg",
     "static/media/polla2.svg": "/static/media/polla2.a6057d243329e012bbc62640e279b1d5.svg",
-    "static/media/hoja.svg": "/static/media/hoja.6402c77fde1cb269f265c448568eb8bf.svg",
+    "static/media/hoja.svg": "/static/media/hoja.181a853477ddc83eda60bb785bb8ca94.svg",
     "index.html": "/index.html",
     "static/media/heart.svg": "/static/media/heart.eef32d3e23e7f2c1d177e7e999a7a9b2.svg",
-    "main.31ddfaf4.css.map": "/static/css/main.31ddfaf4.css.map",
-    "main.17a11197.js.map": "/static/js/main.17a11197.js.map",
+    "main.4a2b71b8.css.map": "/static/css/main.4a2b71b8.css.map",
+    "main.032c5f36.js.map": "/static/js/main.032c5f36.js.map",
     "787.43b8efaf.chunk.js.map": "/static/js/787.43b8efaf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31ddfaf4.css",
-    "static/js/main.17a11197.js"
+    "static/css/main.4a2b71b8.css",
+    "static/js/main.032c5f36.js"
   ]
 }
