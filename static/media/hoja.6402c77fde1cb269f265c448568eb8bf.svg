@@ -1,10 +1,10 @@
 <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 231 96" width="231" height="96">
 	<title>Proyecto nuevo</title>
 	<style>
-		.s0 { fill: #76aba6 }
-		.s1 { fill: #abddd6 }
-		.s2 { fill: #f8fffa }
-		.s3 { opacity: .4;mix-blend-mode: multiply;fill: #76aba6 }
+		.s0 { fill: #76aba6 } 
+		.s1 { fill: #abddd6 } 
+		.s2 { fill: #f8fffa } 
+		.s3 { opacity: .4;mix-blend-mode: multiply;fill: #76aba6 } 
 	</style>
 	<g id="&lt;Group&gt;">
 		<path id="&lt;Path&gt;" class="s0" d="m39.2 17.9c0 0 72.6-28.4 106.6-12.5 0 0-10.2 4.4-12.4 7.4 0 0 42.9 7.6 59.2 29.3 16.2 21.6 38.4 29.8 38.4 29.8 0 0-50.1 14.6-67.6 9 0 0 1.8 8.7 9.8 12.7 0 0-49.1 21.8-134-75.7z"/>
